@@ -1,0 +1,24 @@
+body {
+  background: #8952d0;
+  font-family: Tahoma, Arial, sans-serif;
+  margin: 10px 5px 15px;
+}
+
+#profileimage {
+  border: 10px solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1%;
+  height: 300px;
+  border-radius: 50px;
+}
+
+#AboutMe {
+  border: 3px solid;
+  border-radius: 5px;
+}
+
+nav {
+  margin: 5px;
+}
